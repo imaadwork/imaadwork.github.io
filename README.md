@@ -574,7 +574,7 @@ and continuously learning new skills.
 <div class="contact-card">
 <h3>📧 Email</h3>
 <br>
-<a href="mailto:khaleekahmand@gmail.com">
+<a href="mailto:imaad.danish003@gmail.com">
 imaad.danish003@gmail.com
 </a>
 </div>
