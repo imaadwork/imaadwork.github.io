@@ -575,7 +575,7 @@ and continuously learning new skills.
 <h3>📧 Email</h3>
 <br>
 <a href="mailto:khaleekahmand@gmail.com">
-khaleekahmand@gmail.com
+imaad.danish003@gmail.com
 </a>
 </div>
 
